@@ -1,4 +1,4 @@
-### 소통이 잘되고, 내일이 기대되는 개발자 서진수입니다. 👋
+### 👋 소통이 잘되고, 내일이 기대되는 개발자 서진수입니다. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu291&layout=compact&theme=radicul)](https://github.com/metleeha)
 
