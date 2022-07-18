@@ -1,5 +1,6 @@
 ### 👋 소통이 잘되고, 내일이 기대되는 개발자 서진수입니다. 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu291&layout=compact&theme=radicul)](https://github.com/metleeha)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsu291)](https://github.com/jinsu291/github-readme-stats)
@@ -24,7 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   
-### Tools
+### Tools & Stacks
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
