@@ -1,11 +1,16 @@
 ### 👋 소통이 잘되고, 내일이 기대되는 개발자 서진수입니다. 
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu291&layout=compact&theme=radicul)](https://github.com/metleeha)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsu291)](https://github.com/jinsu291/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlstn291)](https://solved.ac/wlstn291)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsu291&count_bg=%23FFDCFC&title_bg=%23E1E7FA&icon=&icon_color=%23E7E7E7&title=today%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 ## 🛠 Languages
 
